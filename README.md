@@ -11,7 +11,7 @@ We are going to be using [JUnit](http://junit.org/junit5/), which is a unit test
 
 ## Setting up the Project
 
-* Download[Java 8 JDK](http://www.oracle.com/technetwork/java/javase/downloads/jdk9-downloads-3848520.html) installed on your system.
+* Download [Java 8 JDK](http://www.oracle.com/technetwork/java/javase/downloads/jdk9-downloads-3848520.html) installed on your system.
 * Make sure you have declared the `JAVA_HOME` environment variable to the directory where JDK was installed. 
 * Fork the repository by clicking on the Fork icon at the top right corner of the repository page.
 * Clone the repository on to your local machine by running the following commands on git:
@@ -39,7 +39,6 @@ We are going to be using [JUnit](http://junit.org/junit5/), which is a unit test
 5. Write a very conscise but informative pull request message,explaining the test cases in your pull request! Remember to use your words wisely. 
 
 ## Points to keep in mind while contributing
-* 
 * There is not much content in main code (src/main/). *Add your test code to (src/test/) only. 
 * Do not edit ApplicationTest.java! Create a **new test class** instead to avoid merge conflicts.
 * Remember to add comments in your code so that the other person can know what the test module does.
